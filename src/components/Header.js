@@ -6,7 +6,7 @@ export default ({black}) => {
         <header className={black ? 'black' : ''}>
             <div className="header--logo">
                 <a href="/">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logonfx.png/800px-Logonfx.png" alt="Netflix" />
+                    <img src="https://www.caviarcriativo.com/wp-content/uploads/2020/06/logotipo-da-netflix.jpg" alt="Netflix" />
                 </a>
             </div>
             <div className="header--user">
@@ -18,3 +18,4 @@ export default ({black}) => {
     )
 
 }
+
