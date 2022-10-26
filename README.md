@@ -1,5 +1,5 @@
 <body>
-<h1>Projeto clone da Netflix(Torneio de MMA)</h1>
+<h1>Projeto clone da Netflix</h1>
 <li>Um clone da tela inicial do aplicativo da Netflix. 
 
  <h2>Objetivo</h2>
